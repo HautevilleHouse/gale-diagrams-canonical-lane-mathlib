@@ -1,0 +1,17 @@
+import GaleDiagramsCanonicalLaneLean.AdmissibleClass
+import GaleDiagramsCanonicalLaneLean.BridgeLemmas
+import GaleDiagramsCanonicalLaneLean.GateLemmas
+import GaleDiagramsCanonicalLaneLean.FinalTheorem
+import GaleDiagramsCanonicalLaneLean.GalePolytope
+import GaleDiagramsCanonicalLaneLean.GaleDiagramCombinatorics
+import GaleDiagramsCanonicalLaneLean.GaleDiagramRealization
+import GaleDiagramsCanonicalLaneLean.GaleDiagramClassification
+
+namespace HautevilleHouse
+namespace GaleDiagramsCanonicalLaneLean
+
+-- Main package constant
+def galeDiagramPackageVersion : String := "1.0.0"
+
+end GaleDiagramsCanonicalLaneLean
+end HautevilleHouse
